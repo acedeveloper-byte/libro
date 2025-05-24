@@ -34,17 +34,9 @@ export default function Home() {
 
       <ExpediaModal show={showModal} onClose={() => setShowModal(false)} />
       <Packages />
-      {/* <HomeDetails /> */}
 
       <Footer />
 
-      {/*
-
-
-
-
-      {/* <Blog/> 
-      */}
     </>
   );
 }
