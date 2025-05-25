@@ -18,7 +18,7 @@ export default function Home() {
       {/* <section style={{
         height: "100vh",
         justifyContent: "center",
-        alignItems: "center",
+        alignItems: "center ",,
         display: "flex"
         ,
       }}> */}
