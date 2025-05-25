@@ -15,16 +15,16 @@ export default function Home() {
   const [showModal, setShowModal] = useState(true);
   return (
     <>
-      <section style={{
+      {/* <section style={{
         height: "100vh",
         justifyContent: "center",
         alignItems: "center",
         display: "flex"
         ,
-      }}>
+      }}> */}
 
-        <CustomerCard />
-      </section>
+        {/* <CustomerCard /> */}
+      {/* </section> */}
       <Header />
 
       <SearchEngine />
@@ -32,7 +32,7 @@ export default function Home() {
       <HomeAbout />
       <CustomerHelp />
 
-      <ExpediaModal show={showModal} onClose={() => setShowModal(false)} />
+      {/* <ExpediaModal show={showModal} onClose={() => setShowModal(false)} /> */}
       <Packages />
 
       <Footer />
