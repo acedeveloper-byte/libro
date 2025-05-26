@@ -4,7 +4,7 @@ export const metadata = {
 		'Need Help? Reach out to experts of Librovuelos, and seek assistance 24*7 regarding all travel-related queries.',
 };
 
-export default function RootLayout({ children }) {
+export default function CoontactLayout({ children }) {
 	return (
 		<html lang='en'>
 			<body>{children}</body>
