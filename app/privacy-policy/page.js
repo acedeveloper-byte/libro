@@ -45,7 +45,7 @@ const page = () => {
 				</ul>
 				<h4>b. Non-Personal Information</h4>
 				<p>
-					We at Librovuelos. com, may collect non-identifiable details
+					We at Librovuelos.com, may collect non-identifiable details
 					automatically, such as:
 				</p>
 				<ul>
@@ -54,7 +54,7 @@ const page = () => {
 					<li>Browser type</li>
 					<li>Pages visited and time spent</li>
 					<li>
-						Cookies and tracking technologies
+						Cookies and tracking technologiesfv
 						<br />
 						<br />
 					</li>
