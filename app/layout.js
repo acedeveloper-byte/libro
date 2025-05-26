@@ -27,9 +27,7 @@ export default function RootLayout({ children }) {
 					content='pVaLl6JmQ2N5KO858MA28ltPiCr0tP-w1kRoS5ayX3Y'
 				/>
 			</head>
-			<body className={`${geistSans.variable} ${geistMono.variable}`}>
-				{children}
-			</body>
+			<body>{children}</body>
 		</html>
 	);
 }
